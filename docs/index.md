@@ -9,7 +9,7 @@ Teste de documentação.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Teste
 
     mkdocs.yml    # The configuration file.
     docs/

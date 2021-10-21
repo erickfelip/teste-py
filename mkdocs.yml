@@ -3,4 +3,8 @@ pages:
       - Home: index.md
       - About: about.md
       - Teste: TesteF.md
-theme: readthedocs
+theme:
+  name: material
+
+extra: 
+      - css/extra.css
