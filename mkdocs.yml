@@ -1,0 +1,6 @@
+site_name: Teste
+pages:
+      - Home: index.md
+      - About: about.md
+      - Teste: TesteF.md
+theme: readthedocs
